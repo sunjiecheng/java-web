@@ -51,4 +51,5 @@
   [5]: https://yuque.com/page/luan.ma/servlet-filter-mapping
   
   加入两个功能：嵌入式mysql和嵌入式的tomcat
-  
+  - [h2嵌入式db](http://www.h2database.com/html/features.html#execute_sql_on_connection)
+  - [嵌入式的tomcat](https://www.cnblogs.com/hongdada/p/10123128.html)
